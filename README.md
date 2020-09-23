@@ -1,3 +1,9 @@
+## How to run the scripts - TARK
+To run a recipe script, click a link in the table below from your target machine. This will download the Boxstarter one-click application, and prompt you for Boxstarter to run with Administrator privileges (which it needs to do its job). Clicking yes in this dialog will cause the recipe to begin. You can then leave the job unattended and come back when it's finished.
+
+|Click link to run  |Description  |
+|---------|---------|
+|<a href='http://boxstarter.org/package/url?https://raw.githubusercontent.com/rparakhiya/windows-dev-box-setup-scripts/master/tark_web_dev_.NET.ps1'>.Net Web App Developer</a>     | Full stack web development (.Net) (Visual Studio, .Net frameworks, VS Code, Git, Git Extensions, SSMS, Postman) |
 
 # About this project
 The goal of this project is to provide a central place to share ideas for streamlining dev box setup and provide sample scripts for common dev scenarios. It's likely you will want to take the scripts here and modify them to fit your particular needs. When you make those changes if you think others would benefit please consider submitting a PR. Before you contribute please see the [Contribution Guidelines](CONTRIBUTING.md).
