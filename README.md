@@ -1,3 +1,5 @@
+**Note:** Please use Internet Explorer (Not Edge) to access the URL. It doesn't work on Chrome. If you had to use Chrome or new Edge, install [this extension](https://chrome.google.com/webstore/detail/clickonce-for-google-chro/kekahkplibinaibelipdcikofmedafmb), restart the browser and hit the URL.
+
 ## How to run the scripts - TARK
 To run a recipe script, click a link in the table below from your target machine. This will download the Boxstarter one-click application, and prompt you for Boxstarter to run with Administrator privileges (which it needs to do its job). Clicking yes in this dialog will cause the recipe to begin. You can then leave the job unattended and come back when it's finished.
 
